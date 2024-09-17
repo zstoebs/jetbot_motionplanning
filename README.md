@@ -2,9 +2,7 @@
 
 Zach Stoebner
 
-<video width="100%" height="300px" controls>
-  <source src="assets/nonlinear.mp4" type="video/mp4">
-</video>
+[best result!](/assets/nonlinear.mp4)
 
 ## Hardware Setup
 
