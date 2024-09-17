@@ -2,8 +2,6 @@
 
 Zach Stoebner
 
-[best result!](/assets/nonlinear.mp4)
-
 ## Hardware Setup
 
 The JetBot was built following the documentation on the [JetBot homepage](https://jetbot.org/master/index.html). For the parts with multiple options: the IMX219-160 listed as the second option for cameras, the M2 card + antennas listed as the first option for wifi, and the 65mm wheels listed as the second option for wheels were used. The total cost was approximately $300. The hardware setup time was approximately twelve hours spread between two days. A significant portion of the time was spent extracting a screw terminal from the motor board that was placed incorrectly. [1](/assets/fig1.jpg) shows the completed JetBot hardware assembly.
